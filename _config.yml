@@ -12,14 +12,14 @@ language:
 timezone:
 
 menu:
-    首页: /
+    首页: /blog
     关于我: /about
 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
-root: /
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -83,4 +83,6 @@ theme: edinburgh
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:hyscici/blog
+  branch: master
