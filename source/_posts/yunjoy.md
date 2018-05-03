@@ -1,5 +1,15 @@
 ---
-title: yunjoy
+title: 云中间
 date: 2018-04-27 17:29:10
-cover_image: images/auction/page.jpg
+cover_image: https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3xjlxmoj30m80goah6.jpg
 ---
+
+<div align="center">
+    <div align="left" style="width:1200px;">
+    <div ><font size="8">云中间</font></div>
+    <font size="3">这是项目内容哇</font>
+    </div>
+    <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3xkw7muj30wi2nogui.jpg" />
+    <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3xk6c78j30wi2pzk0p.jpg" />
+    <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3xjslakj30wi1u0gpv.jpg" />
+</div>
