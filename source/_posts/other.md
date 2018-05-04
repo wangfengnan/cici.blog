@@ -6,8 +6,8 @@ cover_image: https://ws1.sinaimg.cn/large/006pEJoLgy1fqyi94g0isj30m80go4eh.jpg
 
 <div align="center">
     <div align="left" style="width:1200px;">
-    <div ><font size="8">其他兴趣类</font></div>
-    <font size="3">国画，图标，插画，鼠绘</font>
+    <div ><font size="6" color=#1a1a1a>其他兴趣类</font></div>
+    <font size="3" color=#666666>国画，图标，插画，鼠绘</font>
     </div>
      <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqyia8fenxj30xc3pox6p.jpg" />
     <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3zq7bh2j30m80gojy6.jpg" />
