@@ -6,7 +6,7 @@ cover_image: https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3yiu4d6j30m80gogx2.jpg
 <div align="center">
     <div align="left" style="width:1200px;">
     <div ><font size="6" color=#1a1a1a>dsp广告投放平台➕后台设计</font></div>
-    <font size="3" color=#666666>网页设计，后台设计/font>
+    <font size="3" color=#666666>网页设计，后台设计</font>
     </div>
     <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3yj6r7vj315o15owp4.jpg" />
     <img class="img-fluid project-img" src="https://ws1.sinaimg.cn/large/006pEJoLgy1fqy3yjdly6j31hc0i2ach.jpg" />
